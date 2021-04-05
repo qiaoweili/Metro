@@ -6,7 +6,7 @@ Videos are taken by the team in metro station in Shanghai.
 link to the web: http://imanas.shanghai.nyu.edu/~ql927/metro/
 
 link to demo video:\
-Youtube: 
+Youtube: https://youtu.be/F31dEx-8ias
 
-Youku: 
+Youku: https://v.youku.com/v_show/id_XNTEzMzEyMzYyMA==.html
 
